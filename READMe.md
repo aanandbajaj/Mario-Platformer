@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Welcome! I made this 2D game because I love Mario and wanted to learn the underlying game's underlying mechanics. In this game, I have implemented features that allow for character movement, moving around the level, collecting coins, and facing off against enemies. 
+Welcome! I made this 2D game because I love Mario and wanted to learn the game's underlying mechanics. In this game, I have implemented features that allow for character movement, moving around the level, collecting coins, and facing off against enemies. 
 
 ## Game Mechanics and Features
 
