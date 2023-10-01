@@ -1,0 +1,12 @@
+package com.aanand.shooter.window;
+import java.awt.Canvas;
+
+public class Game extends Canvas implements Runnable{
+
+private static final long serialVersionUID = -2064978516857403497L;
+
+public void run(){
+  
+  }
+ 
+}

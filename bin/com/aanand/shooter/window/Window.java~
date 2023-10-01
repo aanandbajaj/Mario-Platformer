@@ -1,0 +1,9 @@
+package com.aanand.shooter.window;
+
+public class Window {
+
+  public Window (int h, int w, String title){
+    
+  }
+  
+}
