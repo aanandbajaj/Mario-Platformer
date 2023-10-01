@@ -17,11 +17,11 @@ Welcome! I made this 2D game because I love Mario and wanted to learn the game's
   
 - **Enemies**: Enemies patrol the levels and will change direction upon hitting walls. If they come into contact with a fireball, they are removed from the game.
   
-- **Coins**: Throughout the levels, players can collect coins. It's a race against time and obstacles to grab as many as you can!
+- **Coins**: Throughout the levels, players can collect coins and increase their score. 
   
 - **Levels**: The game boasts multiple levels with increasing difficulty, each presenting unique challenges and layouts.
   
-- **Animations**: Smooth animations for player movements, enemy patrols, and fireball shots, enhancing the overall gaming experience.
+- **Animations**: The Animation class in the game provides a flexible and efficient mechanism to cycle through sprite frames at adjustable speeds, enabling seamless and dynamic animations for various game objects.
   
 - **Dynamic Camera**: A camera system that follows the player, ensuring they remain in focus and providing a broader view of the level as they move.
 
