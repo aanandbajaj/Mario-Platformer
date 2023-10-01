@@ -1,5 +1,5 @@
 # Mario Platformer Game
-![Example Image](./res/Readme Images/Game.png)
+![Example Image](./res/Readme_Images/Game.png)
 
 
 ---
