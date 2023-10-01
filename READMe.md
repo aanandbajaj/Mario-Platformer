@@ -13,7 +13,7 @@ Welcome! I made this 2D game because I love Mario and wanted to learn the underl
 - **Character Movements**: Players can move the character left, right, and have the ability to jump. The character also responds to gravity, ensuring a natural fall after a jump.
   
 - **Shooting**: The character can shoot bullets (fireballs) to eliminate enemies.
-![Example Image](./res/Readme Images/Fireball.png)
+![Example Image](./res/Readme_Images/Fireball.png)
   
 - **Enemies**: Enemies patrol the levels and will change direction upon hitting walls. If they come into contact with a fireball, they are removed from the game.
   
@@ -29,7 +29,7 @@ Welcome! I made this 2D game because I love Mario and wanted to learn the underl
 
 The game's level design is modular and flexible, allowing for easy addition of new levels or modification of existing ones. Each level consists of blocks (which form the terrain), coins (for players to collect), and enemies (which the player must avoid or eliminate). The layout and positioning of these elements can be easily adjusted, giving developers the freedom to create diverse and challenging environments.
 
-![Example Image](./res/Readme Images/Level_Design.png)
+![Example Image](./res/Readme_Images/Level_Design.png)
 
 
 ## Setting Up and Running the Game
